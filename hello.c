@@ -7,6 +7,9 @@ int main(void)
      * Hello, computational physics!
      * seguito da una nuova riga.
      */
+  printf("Hello, computational physics\n");
 
+
+  
     return 0;
 }
